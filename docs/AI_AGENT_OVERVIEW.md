@@ -46,7 +46,7 @@ A conversational AI Agent that researches, understands your content, performs ad
 - **Simple interface**: Describe what you want; it handles the rest
 - **Consistent quality**: Remembers your style and preferences over time
 
-*Learn more about the user experience in our [KarnAGT App Capabilities](KARNAGT_ONE_PAGER.md) or explore the complete technical architecture in [Technical System Overview](TECHNICAL_SYSTEM_OVERVIEW.md)*
+*Learn more about the user experience in our [KarnAGT App Capabilities](KARNAGT_APP_CAPABILITIES.md) or explore the complete technical architecture in [Technical System Overview](TECHNICAL_SYSTEM_OVERVIEW.md)*
 
 ## Simple Unified Experience
 
@@ -77,7 +77,7 @@ Ask for what you need in any language. If you can describe it, the Agent can hel
 
 ## More Documentation Links
 
-- **[KarnAGT App Capabilities](KARNAGT_ONE_PAGER.md)** - Quick overview and real-world examples
+- **[KarnAGT App Capabilities](KARNAGT_APP_CAPABILITIES.md)** - Quick overview and real-world examples
 - **[Technical Overview (Mini)](TECHNICAL_SYSTEM_OVERVIEW_MINI.md)** - Concise technical summary
 - **[Technical System Overview](TECHNICAL_SYSTEM_OVERVIEW.md)** - Deep technical dive into architecture and capabilities
 

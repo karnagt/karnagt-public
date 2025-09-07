@@ -4,7 +4,7 @@
 
 
 - **[Technical Overview (Mini)](TECHNICAL_SYSTEM_OVERVIEW_MINI.md)** - Concise technical summary
-- **[KarnAGT App Capabilities](KARNAGT_ONE_PAGER.md)** - User-friendly overview and examples
+- **[KarnAGT App Capabilities](KARNAGT_APP_CAPABILITIES.md)** - User-friendly overview and examples
 - **[AI Agent Overview](AI_AGENT_OVERVIEW.md)** - Detailed capabilities and features
 
 ---
@@ -156,7 +156,7 @@ Built from ground-up using LlamaIndex framework with custom optimizations for pr
 - ✅ **Multi-modal Understanding** - Vision, text, and structured data
 - ✅ **Real-time Streaming** - Immediate response feedback
 
-*These capabilities deliver the powerful user experience described in our [AI Agent Overview](AI_AGENT_OVERVIEW.md) and [KarnAGT App Capabilities](KARNAGT_ONE_PAGER.md)*
+*These capabilities deliver the powerful user experience described in our [AI Agent Overview](AI_AGENT_OVERVIEW.md) and [KarnAGT App Capabilities](KARNAGT_APP_CAPABILITIES.md)*
 
 ### **Advanced Capabilities**
 - 🎯 **Interactive Visualizations** - Maps, charts, dashboards with HTML export
@@ -290,7 +290,7 @@ Built from ground-up using LlamaIndex framework with custom optimizations for pr
 - **Learning & Education**: Interactive tutorials with code examples and visualizations
 - **Business Intelligence**: KPI dashboards with geographic distribution analysis
 
-*See real user examples and use cases in our [KarnAGT App Capabilities](KARNAGT_ONE_PAGER.md) and detailed capability descriptions in [AI Agent Overview](AI_AGENT_OVERVIEW.md)*
+*See real user examples and use cases in our [KarnAGT App Capabilities](KARNAGT_APP_CAPABILITIES.md) and detailed capability descriptions in [AI Agent Overview](AI_AGENT_OVERVIEW.md)*
 
 ---
 
@@ -303,7 +303,7 @@ Built from ground-up using LlamaIndex framework with custom optimizations for pr
 ## 📚 **Related Documentation**
 
 - **[Technical Overview (Mini)](TECHNICAL_SYSTEM_OVERVIEW_MINI.md)** - Concise technical summary
-- **[KarnAGT App Capabilities](KARNAGT_ONE_PAGER.md)** - User-friendly overview with real examples
+- **[KarnAGT App Capabilities](KARNAGT_APP_CAPABILITIES.md)** - User-friendly overview with real examples
 - **[AI Agent Overview](AI_AGENT_OVERVIEW.md)** - Detailed capabilities and user experience
 
 ---
